@@ -1,7 +1,14 @@
-.logo-bambulitos{
-    width: 25%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 100px;
+.img-panda{
+display: flex;
+justify-content: end;
+height: 330px;
+font-size: 200%;
+max-width: 100%;
+
+
+}
+
+body{
+background-image: -o-linear-gradient(#228B22,#00FA9A);
+
 }
